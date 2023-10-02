@@ -45,6 +45,70 @@ namespace qlnv.Migrations
                     b.ToTable("Chucvu");
                 });
 
+            modelBuilder.Entity("qlnv.Models.HopDong", b =>
+                {
+                    b.Property<string>("Mahd")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NgayBatDau")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NgayKetThuc")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Tenhd")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ThoiHan")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Mahd");
+
+                    b.ToTable("HopDong");
+                });
+
+            modelBuilder.Entity("qlnv.Models.KhenThuong", b =>
+                {
+                    b.Property<string>("MaKT")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("TenKT")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("MaKT");
+
+                    b.ToTable("KhenThuong");
+                });
+
+            modelBuilder.Entity("qlnv.Models.KyLuat", b =>
+                {
+                    b.Property<string>("MaKL")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("TenKL")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("MaKL");
+
+                    b.ToTable("KyLuat");
+                });
+
+            modelBuilder.Entity("qlnv.Models.Luong", b =>
+                {
+                    b.Property<string>("LuongCB")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("LuongCB");
+
+                    b.ToTable("Luong");
+                });
+
             modelBuilder.Entity("qlnv.Models.Nhanvien", b =>
                 {
                     b.Property<string>("Manv")
@@ -94,6 +158,24 @@ namespace qlnv.Migrations
                     b.HasKey("Mapb");
 
                     b.ToTable("Phongban");
+                });
+
+            modelBuilder.Entity("qlnv.Models.PhuCap", b =>
+                {
+                    b.Property<string>("Mapc")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("SoTien")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Tenpc")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Mapc");
+
+                    b.ToTable("PhuCap");
                 });
 
             modelBuilder.Entity("qlnv.Models.Trinhdo", b =>

@@ -1,0 +1,43 @@
+@model qlnv.Models.PhuCap
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PhuCap</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Mapc" class="control-label"></label>
+                <input asp-for="Mapc" class="form-control" />
+                <span asp-validation-for="Mapc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tenpc" class="control-label"></label>
+                <input asp-for="Tenpc" class="form-control" />
+                <span asp-validation-for="Tenpc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoTien" class="control-label"></label>
+                <input asp-for="SoTien" class="form-control" />
+                <span asp-validation-for="SoTien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
