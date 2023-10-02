@@ -4,29 +4,35 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<h1>Sửa</h1>
 
-<h4>Trinhdo</h4>
+
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Matd" />
+             <div class="form-group">
+                <label asp-for="Matd" class="control-label"></label>
+                <input asp-for="Matd" class="form-control" />
+                <span asp-validation-for="Matd" class="text-danger"></span>
+            </div>
             <div class="form-group">
                 <label asp-for="Tentd" class="control-label"></label>
                 <input asp-for="Tentd" class="form-control" />
                 <span asp-validation-for="Tentd" class="text-danger"></span>
             </div>
+            <br>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Lưu" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Về bảng trình độ </a>
 </div>
 
 @section Scripts {

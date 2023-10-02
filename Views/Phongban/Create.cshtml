@@ -4,33 +4,34 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Thêm phòng ban mới</h1>
 
-<h4>Phongban</h4>
+
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Mapb" class="control-label"></label>
+                <label asp-for="Mapb" class="control-label">Mã phòng ban</label>
                 <input asp-for="Mapb" class="form-control" />
                 <span asp-validation-for="Mapb" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Tenpb" class="control-label"></label>
+                <label asp-for="Tenpb" class="control-label"> Tên phòng ban</label>
                 <input asp-for="Tenpb" class="form-control" />
                 <span asp-validation-for="Tenpb" class="text-danger"></span>
             </div>
+            <br>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Thêm" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Về bảng phòng ban</a>
 </div>
 
 @section Scripts {
