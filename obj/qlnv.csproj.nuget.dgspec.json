@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\qlnv\\qlnv.csproj": {}
+    "C:\\qlnv\\qlnv.csproj": {}
   },
   "projects": {
-    "c:\\qlnv\\qlnv.csproj": {
+    "C:\\qlnv\\qlnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\qlnv\\qlnv.csproj",
+        "projectUniqueName": "C:\\qlnv\\qlnv.csproj",
         "projectName": "qlnv",
-        "projectPath": "c:\\qlnv\\qlnv.csproj",
+        "projectPath": "C:\\qlnv\\qlnv.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "c:\\qlnv\\obj\\",
+        "outputPath": "C:\\qlnv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,36 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
