@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c/IdU0zvqAtJnkvH0o4yj8XF8VDL8MTOJaehE55m8Xmx6VZ9rj0SEVUyU124yqHymDn78cjlFjeR9kPxPXsiWw==",
+  "dgSpecHash": "iKiyeoaSHjWlCVOMfoyTGixD/uTyEOFlG6VDsDj3/X9ujI6S/gG/kDCwu57WLpwp8VCUs1+TrHSzpr6ZLBTe6A==",
   "success": true,
-  "projectFilePath": "C:\\qlnv\\qlnv.csproj",
+  "projectFilePath": "e:\\BaiTapLon PTPMQL\\qlnv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

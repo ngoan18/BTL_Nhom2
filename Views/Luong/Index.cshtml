@@ -4,24 +4,27 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Bảng Lương</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Thêm một lương mới</a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            <th></th>
+             <th>
+                @Html.DisplayNameFor(model => model.LuongCB)
+            </th>
+           
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
         <tr>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.LuongCB">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.LuongCB">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.LuongCB">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.LuongCB">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.LuongCB">Chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.LuongCB">Xóa</a>
             </td>
         </tr>
 }

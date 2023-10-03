@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\qlnv\\qlnv.csproj": {}
+    "e:\\BaiTapLon PTPMQL\\qlnv.csproj": {}
   },
   "projects": {
-    "C:\\qlnv\\qlnv.csproj": {
+    "e:\\BaiTapLon PTPMQL\\qlnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\qlnv\\qlnv.csproj",
+        "projectUniqueName": "e:\\BaiTapLon PTPMQL\\qlnv.csproj",
         "projectName": "qlnv",
-        "projectPath": "C:\\qlnv\\qlnv.csproj",
+        "projectPath": "e:\\BaiTapLon PTPMQL\\qlnv.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\qlnv\\obj\\",
+        "outputPath": "e:\\BaiTapLon PTPMQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
