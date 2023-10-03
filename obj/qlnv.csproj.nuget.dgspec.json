@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LTH_BTL\\MvcMovie\\qlnv.csproj": {}
+    "D:\\LTH_BTL\\MvcMovie\\qlnv.csproj": {}
   },
   "projects": {
-    "d:\\LTH_BTL\\MvcMovie\\qlnv.csproj": {
+    "D:\\LTH_BTL\\MvcMovie\\qlnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LTH_BTL\\MvcMovie\\qlnv.csproj",
+        "projectUniqueName": "D:\\LTH_BTL\\MvcMovie\\qlnv.csproj",
         "projectName": "qlnv",
-        "projectPath": "d:\\LTH_BTL\\MvcMovie\\qlnv.csproj",
+        "projectPath": "D:\\LTH_BTL\\MvcMovie\\qlnv.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "d:\\LTH_BTL\\MvcMovie\\obj\\",
+        "outputPath": "D:\\LTH_BTL\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
