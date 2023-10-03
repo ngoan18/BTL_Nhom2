@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\BaiTapLon PTPMQL\\qlnv.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\BaiTapLon PTPMQL\\obj\\",
+=======
+    "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj": {}
+  },
+  "projects": {
+    "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+        "projectName": "qlnv",
+        "projectPath": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoa_BTL\\BTL_Nhom2\\obj\\",
+>>>>>>> d8635ca5fb120ccec6558b92d671b058c0807c2c
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
