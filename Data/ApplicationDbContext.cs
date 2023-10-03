@@ -23,5 +23,10 @@ namespace MvcMovie.Data
         public DbSet<qlnv.Models.Phongban> Phongban { get; set; } = default!;
 
         public DbSet<qlnv.Models.Trinhdo> Trinhdo { get; set; } = default!;
+        public DbSet<qlnv.Models.HopDong> HopDong { get; set; } = default!;
+        public DbSet<qlnv.Models.KhenThuong> KhenThuong { get; set; } = default!;
+        public DbSet<qlnv.Models.Luong> Luong { get; set; } = default!;
+        public DbSet<qlnv.Models.PhuCap> PhuCap { get; set; } = default!;
+        public DbSet<qlnv.Models.KyLuat> KyLuat { get; set; } = default!;
     }
 }
