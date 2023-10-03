@@ -6,39 +6,39 @@
 
 
 
-<h4>Hợp Đồng</h4>
+<h4>Thêm mới Hợp Đồng</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Mahd" class="control-label"></label>
+                <label asp-for="Mahd" class="control-label">Mã hợp đồng</label>
                 <input asp-for="Mahd" class="form-control" />
                 <span asp-validation-for="Mahd" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Tenhd" class="control-label"></label>
+                <label asp-for="Tenhd" class="control-label">Tên hợp đồng</label>
                 <input asp-for="Tenhd" class="form-control" />
                 <span asp-validation-for="Tenhd" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="NgayBatDau" class="control-label"></label>
+                <label asp-for="NgayBatDau" class="control-label"> Ngày bắt đầu làm</label>
                 <input asp-for="NgayBatDau" class="form-control" />
                 <span asp-validation-for="NgayBatDau" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="NgayKetThuc" class="control-label"></label>
+                <label asp-for="NgayKetThuc" class="control-label">Ngày kết thúc</label>
                 <input asp-for="NgayKetThuc" class="form-control" />
                 <span asp-validation-for="NgayKetThuc" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ThoiHan" class="control-label"></label>
+                <label asp-for="ThoiHan" class="control-label">Thời hạn</label>
                 <input asp-for="ThoiHan" class="form-control" />
                 <span asp-validation-for="ThoiHan" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Thêm" class="btn btn-primary" />
             </div>
         </form>
     </div>

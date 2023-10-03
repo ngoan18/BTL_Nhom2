@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\BaiTapLon PTPMQL\\qlnv.csproj": {}
+    "E:\\BaiTapLon PTPMQL\\qlnv.csproj": {}
   },
   "projects": {
-    "e:\\BaiTapLon PTPMQL\\qlnv.csproj": {
+    "E:\\BaiTapLon PTPMQL\\qlnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\BaiTapLon PTPMQL\\qlnv.csproj",
+        "projectUniqueName": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
         "projectName": "qlnv",
-        "projectPath": "e:\\BaiTapLon PTPMQL\\qlnv.csproj",
+        "projectPath": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "e:\\BaiTapLon PTPMQL\\obj\\",
+        "outputPath": "E:\\BaiTapLon PTPMQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,17 +13,18 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="MaKL" class="control-label"></label>
+                <label asp-for="MaKL" class="control-label">Mã kỷ luật</label>
                 <input asp-for="MaKL" class="form-control" />
                 <span asp-validation-for="MaKL" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="TenKL" class="control-label"></label>
+                <label asp-for="TenKL" class="control-label">Tên kỷ luật</label>
                 <input asp-for="TenKL" class="form-control" />
                 <span asp-validation-for="TenKL" class="text-danger"></span>
             </div>
+            <br>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Thêm" class="btn btn-primary" />
             </div>
         </form>
     </div>

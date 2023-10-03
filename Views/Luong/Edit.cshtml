@@ -13,6 +13,12 @@
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="LuongCB" />
+             <div class="form-group">
+                <label asp-for="LuongCB" class="control-label"></label>
+                <input asp-for="LuongCB" class="form-control" />
+                <span asp-validation-for="LuongCB" class="text-danger"></span>
+            </div>
+            <br>
             <div class="form-group">
                 <input type="submit" value="Lưa" class="btn btn-primary" />
             </div>

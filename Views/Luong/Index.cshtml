@@ -21,6 +21,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.LuongCB)
+            </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.LuongCB">Sửa</a> |
                 <a asp-action="Details" asp-route-id="@item.LuongCB">Chi tiết</a> |
