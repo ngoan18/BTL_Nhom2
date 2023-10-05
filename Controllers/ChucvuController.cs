@@ -6,7 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
+using OfficeOpenXml;
 using qlnv.Models;
+using X.PagedList;
 
 namespace qlnv.Controllers
 {
@@ -20,11 +22,28 @@ namespace qlnv.Controllers
         }
 
         // GET: Chucvu
-        public async Task<IActionResult> Index()
+       /* public async Task<IActionResult> Index()
         {
               return _context.Chucvu != null ? 
                           View(await _context.Chucvu.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.Chucvu'  is null.");
+        }
+        */
+         public async Task<IActionResult> Index( int? page, int? PageSize )
+        {
+            ViewBag.PageSize = new List<SelectListItem>()
+        {
+            new SelectListItem() {Value="3", Text = "3"},
+            new SelectListItem() {Value="5", Text = "5"},
+            new SelectListItem() {Value="10", Text = "10"},
+            new SelectListItem() {Value="15", Text = "15"},
+            new SelectListItem() {Value="25", Text = "25"},
+
+        };
+        int pagesize = (PageSize ?? 3);
+        ViewBag.psize = pagesize;
+        var model = _context.Chucvu.ToList().ToPagedList (page ?? 1, pagesize);
+        return View (model);
         }
 
         // GET: Chucvu/Details/5
@@ -48,6 +67,7 @@ namespace qlnv.Controllers
         // GET: Chucvu/Create
         public IActionResult Create()
         {
+            ViewData["Mapb"]= new SelectList (_context.Phongban,"Mapb","Tenpb");
             return View();
         }
 
@@ -56,7 +76,7 @@ namespace qlnv.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Macv,Tencv")] Chucvu chucvu)
+        public async Task<IActionResult> Create([Bind("Macv,Tencv,Mapb,Tenpb")] Chucvu chucvu)
         {
             if (ModelState.IsValid)
             {
@@ -64,6 +84,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Mapb"]= new SelectList(_context.Phongban,"Mapb","Tenpb",chucvu.Mapb);
             return View(chucvu);
         }
 
@@ -159,5 +180,22 @@ namespace qlnv.Controllers
         {
           return (_context.Chucvu?.Any(e => e.Macv == id)).GetValueOrDefault();
         }
+         public IActionResult Download()
+        {
+            var fileName = "YourFileName" + ".xlsx";
+            using (ExcelPackage excelPackage =new ExcelPackage())
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
+                worksheet.Cells["A1"].Value = "PersomId";
+                worksheet.Cells["B1"].Value = "FullName";
+                worksheet.Cells["C1"].Value = "Address";
+
+                var personList = _context.Chucvu.ToList();
+                worksheet.Cells["A2"].LoadFromCollection(personList);
+                var stream = new MemoryStream(excelPackage.GetAsByteArray());
+                return File (stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            }
+        }
+      
     }
 }

@@ -55,7 +55,7 @@ namespace qlnv.Controllers
         // GET: Luong/Create
         public IActionResult Create()
         {
-            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Macv");
+            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Tencv");
             return View();
         }
 
@@ -64,7 +64,7 @@ namespace qlnv.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("LuongCB")] Luong luong)
+        public async Task<IActionResult> Create([Bind("LuongCB,Macv,Tencv")] Luong luong)
         {
             if (ModelState.IsValid)
             {
@@ -72,7 +72,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Macv", luong.Macv);
+            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Tencv", luong.Macv);
             return View(luong);
         }
 

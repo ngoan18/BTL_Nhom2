@@ -16,6 +16,11 @@
                 <span asp-validation-for="Macv" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Mapb" class="control-label">Phòng ban</label>
+                <select asp-for="Mapb" class ="form-control" asp-items="ViewBag.Mapb"></select>
+            </div>
+
+            <div class="form-group">
                 <label asp-for="Tencv" class="control-label"> Tên chức vụ</label>
                 <input asp-for="Tencv" class="form-control" />
                 <span asp-validation-for="Tencv" class="text-danger"></span>

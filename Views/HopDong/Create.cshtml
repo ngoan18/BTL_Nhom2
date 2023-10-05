@@ -17,6 +17,10 @@
                 <input asp-for="Mahd" class="form-control" />
                 <span asp-validation-for="Mahd" class="text-danger"></span>
             </div>
+             <div class="form-group">
+                <label asp-for="Manv" class="control-label">Nhân viên</label>
+                <select asp-for="Manv" class="form-control" asp-items="ViewBag.Manv"></select>
+            </div>
             <div class="form-group">
                 <label asp-for="Tenhd" class="control-label">Tên hợp đồng</label>
                 <input asp-for="Tenhd" class="form-control" />
@@ -37,10 +41,7 @@
                 <input asp-for="ThoiHan" class="form-control" />
                 <span asp-validation-for="ThoiHan" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Manv" class="control-label"></label>
-                <select asp-for="Manv" class="form-control" asp-items="ViewBag.Manv"></select>
-            </div>
+           <br>
             <div class="form-group">
                 <input type="submit" value="Thêm" class="btn btn-primary" />
             </div>

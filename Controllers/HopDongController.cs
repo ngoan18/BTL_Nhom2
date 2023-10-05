@@ -54,7 +54,7 @@ namespace qlnv.Controllers
         // GET: HopDong/Create
         public IActionResult Create()
         {
-            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv", "Manv");
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv", "Hoten");
             return View();
         }
 
@@ -63,7 +63,7 @@ namespace qlnv.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Mahd,Tenhd,NgayBatDau,NgayKetThuc,ThoiHan")] HopDong hopDong)
+        public async Task<IActionResult> Create([Bind("Mahd,Tenhd,NgayBatDau,NgayKetThuc,ThoiHan,Manv,Hoten")] HopDong hopDong)
         {
             if (ModelState.IsValid)
             {
@@ -71,7 +71,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv" , "Manv", hopDong.Manv);
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv" , "Hoten", hopDong.Manv);
             return View(hopDong);
         }
 
