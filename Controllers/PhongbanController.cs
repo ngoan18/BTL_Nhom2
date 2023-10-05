@@ -9,6 +9,7 @@ using MvcMovie.Data;
 using OfficeOpenXml;
 using qlnv.Models;
 using qlnv.Models.Process;
+using X.PagedList;
 
 namespace qlnv.Controllers
 {
@@ -22,11 +23,28 @@ namespace qlnv.Controllers
         }
 
         // GET: Phongban
-        public async Task<IActionResult> Index()
+       /* public async Task<IActionResult> Index()
         {
               return _context.Phongban != null ? 
                           View(await _context.Phongban.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.Phongban'  is null.");
+        }
+        */
+
+         public async Task<IActionResult> Index( int? page, int? PageSize )
+        {
+            ViewBag.PageSize = new List<SelectListItem>()
+        {
+            new SelectListItem() {Value="3", Text = "3"},
+            new SelectListItem() {Value="5", Text = "5"},
+            new SelectListItem() {Value="10", Text = "10"},
+            new SelectListItem() {Value="15", Text = "15"},
+            new SelectListItem() {Value="25", Text = "25"},
+        };
+        int pagesize = (PageSize ?? 3);
+        ViewBag.psize = pagesize;
+        var model = _context.Phongban.ToList().ToPagedList (page ?? 1, pagesize);
+        return View (model);
         }
 
         // GET: Phongban/Details/5
