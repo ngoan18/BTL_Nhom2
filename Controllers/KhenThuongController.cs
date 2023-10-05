@@ -48,6 +48,7 @@ namespace qlnv.Controllers
         // GET: KhenThuong/Create
         public IActionResult Create()
         {
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv", "Manv");
             return View();
         }
 
@@ -56,7 +57,7 @@ namespace qlnv.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaKT,TenKT")] KhenThuong khenThuong)
+        public async Task<IActionResult> Create([Bind("MaKT,TenKT,Manv")] KhenThuong khenThuong)
         {
             if (ModelState.IsValid)
             {
@@ -64,6 +65,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv" , "Manv", khenThuong.Manv);
             return View(khenThuong);
         }
 

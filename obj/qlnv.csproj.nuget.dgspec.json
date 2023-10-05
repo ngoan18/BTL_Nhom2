@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "E:\\BaiTapLon PTPMQL\\qlnv.csproj": {}
+    "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj": {}
   },
   "projects": {
-    "E:\\BaiTapLon PTPMQL\\qlnv.csproj": {
+    "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
+        "projectUniqueName": "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj",
         "projectName": "qlnv",
-        "projectPath": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\BaiTapLon PTPMQL\\obj\\",
-=======
-    "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj": {}
-  },
-  "projects": {
-    "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
-        "projectName": "qlnv",
-        "projectPath": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+        "projectPath": "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoa_BTL\\BTL_Nhom2\\obj\\",
->>>>>>> d8635ca5fb120ccec6558b92d671b058c0807c2c
+        "outputPath": "D:\\Hoa_BTL\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

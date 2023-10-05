@@ -12048,11 +12048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+      "projectUniqueName": "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj",
       "projectName": "qlnv",
-      "projectPath": "d:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+      "projectPath": "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "d:\\Hoa_BTL\\BTL_Nhom2\\obj\\",
+      "outputPath": "D:\\Hoa_BTL\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

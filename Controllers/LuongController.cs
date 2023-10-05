@@ -48,6 +48,7 @@ namespace qlnv.Controllers
         // GET: Luong/Create
         public IActionResult Create()
         {
+            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Macv");
             return View();
         }
 
@@ -64,6 +65,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Macv"] = new SelectList(_context.Chucvu, "Macv", "Macv", luong.Macv);
             return View(luong);
         }
 

@@ -48,6 +48,7 @@ namespace qlnv.Controllers
         // GET: HopDong/Create
         public IActionResult Create()
         {
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv", "Manv");
             return View();
         }
 
@@ -64,6 +65,7 @@ namespace qlnv.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Manv"] = new SelectList(_context.Nhanvien, "Manv" , "Manv", hopDong.Manv);
             return View(hopDong);
         }
 

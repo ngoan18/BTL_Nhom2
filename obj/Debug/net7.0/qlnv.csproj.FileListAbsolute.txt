@@ -1,1162 +1,290 @@
-C:\qlnv\bin\Debug\net7.0\appsettings.Development.json
-C:\qlnv\bin\Debug\net7.0\appsettings.json
-C:\qlnv\bin\Debug\net7.0\qlnv.staticwebassets.runtime.json
-C:\qlnv\bin\Debug\net7.0\qlnv.exe
-C:\qlnv\bin\Debug\net7.0\qlnv.deps.json
-C:\qlnv\bin\Debug\net7.0\qlnv.runtimeconfig.json
-C:\qlnv\bin\Debug\net7.0\qlnv.dll
-C:\qlnv\bin\Debug\net7.0\qlnv.pdb
-C:\qlnv\obj\Debug\net7.0\qlnv.csproj.AssemblyReference.cache
-C:\qlnv\obj\Debug\net7.0\qlnv.GeneratedMSBuildEditorConfig.editorconfig
-C:\qlnv\obj\Debug\net7.0\qlnv.AssemblyInfoInputs.cache
-C:\qlnv\obj\Debug\net7.0\qlnv.AssemblyInfo.cs
-C:\qlnv\obj\Debug\net7.0\qlnv.csproj.CoreCompileInputs.cache
-C:\qlnv\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cache
-C:\qlnv\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cache
-C:\qlnv\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cs
-C:\qlnv\obj\Debug\net7.0\staticwebassets\msbuild.qlnv.Microsoft.AspNetCore.StaticWebAssets.props
-C:\qlnv\obj\Debug\net7.0\staticwebassets\msbuild.build.qlnv.props
-C:\qlnv\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.qlnv.props
-C:\qlnv\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.qlnv.props
-C:\qlnv\obj\Debug\net7.0\staticwebassets.pack.json
-C:\qlnv\obj\Debug\net7.0\staticwebassets.build.json
-C:\qlnv\obj\Debug\net7.0\staticwebassets.development.json
-C:\qlnv\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\qlnv\obj\Debug\net7.0\scopedcss\bundle\qlnv.styles.css
-C:\qlnv\obj\Debug\net7.0\scopedcss\projectbundle\qlnv.bundle.scp.css
-C:\qlnv\obj\Debug\net7.0\qlnv.dll
-C:\qlnv\obj\Debug\net7.0\refint\qlnv.dll
-C:\qlnv\obj\Debug\net7.0\qlnv.pdb
-C:\qlnv\obj\Debug\net7.0\qlnv.genruntimeconfig.cache
-C:\qlnv\obj\Debug\net7.0\ref\qlnv.dll
-C:\qlnv\bin\Debug\net7.0\Azure.Core.dll
-C:\qlnv\bin\Debug\net7.0\Azure.Identity.dll
-C:\qlnv\bin\Debug\net7.0\EPPlus.dll
-C:\qlnv\bin\Debug\net7.0\EPPlus.Interfaces.dll
-C:\qlnv\bin\Debug\net7.0\EPPlus.System.Drawing.dll
-C:\qlnv\bin\Debug\net7.0\Humanizer.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Build.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\qlnv\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\qlnv\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\qlnv\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\qlnv\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Common.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Configuration.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Frameworks.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.LibraryModel.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Packaging.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.ProjectModel.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Protocol.dll
-C:\qlnv\bin\Debug\net7.0\NuGet.Versioning.dll
-C:\qlnv\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-C:\qlnv\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-C:\qlnv\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\qlnv\bin\Debug\net7.0\System.CodeDom.dll
-C:\qlnv\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-C:\qlnv\bin\Debug\net7.0\System.Composition.Convention.dll
-C:\qlnv\bin\Debug\net7.0\System.Composition.Hosting.dll
-C:\qlnv\bin\Debug\net7.0\System.Composition.Runtime.dll
-C:\qlnv\bin\Debug\net7.0\System.Composition.TypedParts.dll
-C:\qlnv\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\qlnv\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\qlnv\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\qlnv\bin\Debug\net7.0\System.Memory.Data.dll
-C:\qlnv\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-C:\qlnv\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\qlnv\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
-C:\qlnv\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\qlnv\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\qlnv\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\qlnv\bin\Debug\net7.0\af\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ar\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\az\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\bg\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\da\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\el\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\fa\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\he\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\hr\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\hu\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\hy\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\id\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\is\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ku\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\lv\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\mt\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\nb\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\nl\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ro\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\sk\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\sl\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\sr\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\sv\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\uk\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\vi\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\qlnv\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\qlnv\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\qlnv\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\qlnv\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\qlnv\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\qlnv\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\qlnv\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\qlnv\obj\Debug\net7.0\qlnv.csproj.CopyComplete
-<<<<<<< HEAD
-C:\qlnv\bin\Debug\net7.0\JetBrains.Annotations.dll
-C:\qlnv\bin\Debug\net7.0\X.PagedList.dll
-C:\qlnv\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
-C:\qlnv\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cs
-=======
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\appsettings.json
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.staticwebassets.runtime.json
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.exe
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.deps.json
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.runtimeconfig.json
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\qlnv.pdb
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.Interfaces.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.System.Drawing.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Humanizer.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Build.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Common.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Configuration.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Frameworks.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.LibraryModel.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Packaging.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.ProjectModel.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Protocol.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Versioning.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Convention.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Hosting.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Runtime.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.TypedParts.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\af\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ar\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\az\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\bg\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\da\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\el\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fa\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\he\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\hr\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\hu\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\hy\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\id\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\is\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ku\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\lv\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\mt\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\nb\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\nl\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ro\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\sk\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\sl\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\sr\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\sv\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\uk\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\vi\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\LTH_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.AssemblyReference.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.GeneratedMSBuildEditorConfig.editorconfig
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.AssemblyInfoInputs.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.AssemblyInfo.cs
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.CoreCompileInputs.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cs
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.qlnv.Microsoft.AspNetCore.StaticWebAssets.props
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.qlnv.props
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.qlnv.props
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.qlnv.props
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\qlnv.styles.css
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\qlnv.bundle.scp.css
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.CopyComplete
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.dll
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\refint\qlnv.dll
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.pdb
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\qlnv.genruntimeconfig.cache
-D:\LTH_BTL\MvcMovie\obj\Debug\net7.0\ref\qlnv.dll
->>>>>>> 6406fafe35bd6c5b23b7e6ec24aee5d216f8e571
-<<<<<<< HEAD
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\appsettings.Development.json
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\appsettings.json
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.staticwebassets.runtime.json
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.exe
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.deps.json
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.runtimeconfig.json
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\qlnv.pdb
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Azure.Core.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Azure.Identity.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\EPPlus.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\EPPlus.Interfaces.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\EPPlus.System.Drawing.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Humanizer.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\JetBrains.Annotations.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Build.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\Newtonsoft.Json.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Common.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Configuration.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Frameworks.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.LibraryModel.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Packaging.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.ProjectModel.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Protocol.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\NuGet.Versioning.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.CodeDom.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Composition.Convention.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Composition.Hosting.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Composition.Runtime.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Composition.TypedParts.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Drawing.Common.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Memory.Data.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Runtime.Caching.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Security.Permissions.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\X.PagedList.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\af\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ar\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\az\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\bg\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\da\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\el\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fa\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\he\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\hr\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\hu\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\hy\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\id\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\is\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ku\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\lv\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\mt\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\nb\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\nl\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ro\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\sk\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\sl\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\sr\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\sv\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\uk\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\vi\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\BaiTapLon PTPMQL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.csproj.AssemblyReference.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.GeneratedMSBuildEditorConfig.editorconfig
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.AssemblyInfoInputs.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.AssemblyInfo.cs
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.csproj.CoreCompileInputs.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cs
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cs
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets\msbuild.qlnv.Microsoft.AspNetCore.StaticWebAssets.props
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets\msbuild.build.qlnv.props
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.qlnv.props
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.qlnv.props
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets.pack.json
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets.build.json
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\staticwebassets.development.json
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\scopedcss\bundle\qlnv.styles.css
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\scopedcss\projectbundle\qlnv.bundle.scp.css
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.csproj.CopyComplete
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.dll
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\refint\qlnv.dll
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.pdb
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\qlnv.genruntimeconfig.cache
-E:\BaiTapLon PTPMQL\obj\Debug\net7.0\ref\qlnv.dll
-=======
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\appsettings.Development.json
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\appsettings.json
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.staticwebassets.runtime.json
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.exe
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.deps.json
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.runtimeconfig.json
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\qlnv.pdb
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Azure.Core.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Azure.Identity.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\EPPlus.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\EPPlus.Interfaces.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\EPPlus.System.Drawing.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Humanizer.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\JetBrains.Annotations.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Build.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Common.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Configuration.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Frameworks.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.LibraryModel.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Packaging.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.ProjectModel.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Protocol.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\NuGet.Versioning.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.CodeDom.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Composition.Convention.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Composition.Hosting.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Composition.Runtime.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Composition.TypedParts.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Memory.Data.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\X.PagedList.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\af\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ar\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\az\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\bg\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\da\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\el\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fa\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\he\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\hr\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\hu\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\hy\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\id\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\is\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ku\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\lv\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\mt\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\nb\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\nl\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ro\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\sk\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\sl\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\sr\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\sv\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\uk\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\vi\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Hoa_BTL\BTL_Nhom2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.csproj.AssemblyReference.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.GeneratedMSBuildEditorConfig.editorconfig
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.AssemblyInfoInputs.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.AssemblyInfo.cs
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.csproj.CoreCompileInputs.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cs
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cs
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets\msbuild.qlnv.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets\msbuild.build.qlnv.props
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.qlnv.props
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.qlnv.props
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets.build.json
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\staticwebassets.development.json
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\scopedcss\bundle\qlnv.styles.css
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\scopedcss\projectbundle\qlnv.bundle.scp.css
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.csproj.CopyComplete
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.dll
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\refint\qlnv.dll
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.pdb
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\qlnv.genruntimeconfig.cache
-D:\Hoa_BTL\BTL_Nhom2\obj\Debug\net7.0\ref\qlnv.dll
->>>>>>> d8635ca5fb120ccec6558b92d671b058c0807c2c
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\appsettings.json
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.staticwebassets.runtime.json
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.exe
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.deps.json
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.runtimeconfig.json
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\qlnv.pdb
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.Interfaces.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Humanizer.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Common.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\X.PagedList.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoa_BTL\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.AssemblyReference.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.AssemblyInfoInputs.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.AssemblyInfo.cs
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.CoreCompileInputs.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cs
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.MvcApplicationPartsAssemblyInfo.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.RazorAssemblyInfo.cs
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.qlnv.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.qlnv.props
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.qlnv.props
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.qlnv.props
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\qlnv.styles.css
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\qlnv.bundle.scp.css
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.csproj.CopyComplete
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.dll
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\refint\qlnv.dll
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.pdb
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\qlnv.genruntimeconfig.cache
+D:\Hoa_BTL\MvcMovie\obj\Debug\net7.0\ref\qlnv.dll

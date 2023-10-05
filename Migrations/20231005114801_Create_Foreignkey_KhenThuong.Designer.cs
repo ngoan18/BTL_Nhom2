@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MvcMovie.Data;
 
@@ -10,9 +11,11 @@ using MvcMovie.Data;
 namespace qlnv.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231005114801_Create_Foreignkey_KhenThuong")]
+    partial class Create_Foreignkey_KhenThuong
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.11");
@@ -50,10 +53,6 @@ namespace qlnv.Migrations
                     b.Property<string>("Mahd")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Manv")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
                     b.Property<string>("NgayBatDau")
                         .IsRequired()
                         .HasColumnType("TEXT");
@@ -71,8 +70,6 @@ namespace qlnv.Migrations
                         .HasColumnType("TEXT");
 
                     b.HasKey("Mahd");
-
-                    b.HasIndex("Manv");
 
                     b.ToTable("HopDong");
                 });
@@ -116,13 +113,7 @@ namespace qlnv.Migrations
                     b.Property<string>("LuongCB")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Macv")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
                     b.HasKey("LuongCB");
-
-                    b.HasIndex("Macv");
 
                     b.ToTable("Luong");
                 });
@@ -210,17 +201,6 @@ namespace qlnv.Migrations
                     b.ToTable("Trinhdo");
                 });
 
-            modelBuilder.Entity("qlnv.Models.HopDong", b =>
-                {
-                    b.HasOne("qlnv.Models.Nhanvien", "Nhanvien")
-                        .WithMany()
-                        .HasForeignKey("Manv")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Nhanvien");
-                });
-
             modelBuilder.Entity("qlnv.Models.KhenThuong", b =>
                 {
                     b.HasOne("qlnv.Models.Nhanvien", "Nhanvien")
@@ -230,17 +210,6 @@ namespace qlnv.Migrations
                         .IsRequired();
 
                     b.Navigation("Nhanvien");
-                });
-
-            modelBuilder.Entity("qlnv.Models.Luong", b =>
-                {
-                    b.HasOne("qlnv.Models.Chucvu", "Chucvu")
-                        .WithMany()
-                        .HasForeignKey("Macv")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Chucvu");
                 });
 #pragma warning restore 612, 618
         }

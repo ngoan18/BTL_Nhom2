@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "mi0dlwhSngetiqnlpoKHg4r6FT3SlPmPja/ubqAom8Hf4H4RxuZkxUlqwaUKca+djHTaHskxrq7HI+rhmXtbhQ==",
+  "dgSpecHash": "0lAS0xHj3KoeZwQC6ltApx2QV+hJyxbpE66t6coPoTFeFiig1i2WGl1kwvhLaPwqCyPzM8nNozZlW+pfkEY0Kg==",
   "success": true,
-  "projectFilePath": "E:\\BaiTapLon PTPMQL\\qlnv.csproj",
-=======
-  "dgSpecHash": "PvcOW39GGrVGxMJ2Vm8V5MLEvC3C26s87GP/UNEU0jUcQbua82HPcLVov7nwJnswtjfNQSkyGKgUZbl2IwL3Kw==",
-  "success": true,
-  "projectFilePath": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
->>>>>>> d8635ca5fb120ccec6558b92d671b058c0807c2c
+  "projectFilePath": "D:\\Hoa_BTL\\MvcMovie\\qlnv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

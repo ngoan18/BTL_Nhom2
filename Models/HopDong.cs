@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace qlnv.Models;
 
@@ -10,4 +11,11 @@ namespace qlnv.Models;
         public string NgayBatDau { get; set; }
         public string NgayKetThuc { get; set; }
         public string ThoiHan { get; set; }
+        public string Manv { get; set; }
+        [ForeignKey("Manv")]
+        public Nhanvien? Nhanvien { get; set; }
+        
+        
+        
+        
     }
