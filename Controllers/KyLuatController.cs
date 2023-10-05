@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using qlnv.Models;
+using X.PagedList;
 
 namespace qlnv.Controllers
 {
@@ -18,14 +19,20 @@ namespace qlnv.Controllers
         {
             _context = context;
         }
+        //phan trang
+        public async Task<IActionResult> Index(int? page)
+        {
+            var model = _context.KyLuat.ToList().ToPagedList(page ?? 1, 5);
+            return View(model);
+        }
 
         // GET: KyLuat
-        public async Task<IActionResult> Index()
+        /*public async Task<IActionResult> Index()
         {
               return _context.KyLuat != null ? 
                           View(await _context.KyLuat.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.KyLuat'  is null.");
-        }
+        }*/
 
         // GET: KyLuat/Details/5
         public async Task<IActionResult> Details(string id)

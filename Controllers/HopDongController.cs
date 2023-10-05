@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using qlnv.Models;
+using X.PagedList;
 
 namespace qlnv.Controllers
 {
@@ -18,14 +19,19 @@ namespace qlnv.Controllers
         {
             _context = context;
         }
+        public async Task<IActionResult> Index(int? page)
+        {
+            var model = _context.HopDong.ToList().ToPagedList(page ?? 1, 5);
+            return View(model);
+        }
 
         // GET: HopDong
-        public async Task<IActionResult> Index()
+        /*public async Task<IActionResult> Index()
         {
               return _context.HopDong != null ? 
                           View(await _context.HopDong.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.HopDong'  is null.");
-        }
+        }*/
 
         // GET: HopDong/Details/5
         public async Task<IActionResult> Details(string id)
