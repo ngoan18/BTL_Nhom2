@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
+using OfficeOpenXml;
 using qlnv.Models;
 using X.PagedList;
 
@@ -201,6 +202,21 @@ namespace qlnv.Controllers
             luongNV = "Lương : " + luong ;
             ViewBag.luong = luongNV;
             return View();
+        }
+         public IActionResult Download()
+        {
+            var fileName = "YourFileName" + ".xlsx";
+            using (ExcelPackage excelPackage =new ExcelPackage())
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
+                worksheet.Cells["A1"].Value = "LuongCB";
+                worksheet.Cells["B1"].Value = "Macv";
+
+                var personList = _context.Luong.ToList();
+                worksheet.Cells["A2"].LoadFromCollection(personList);
+                var stream = new MemoryStream(excelPackage.GetAsByteArray());
+                return File (stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            }
         }
     }
 }

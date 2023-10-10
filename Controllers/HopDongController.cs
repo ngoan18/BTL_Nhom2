@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
+using OfficeOpenXml;
 using qlnv.Models;
 using X.PagedList;
 
@@ -190,5 +191,25 @@ namespace qlnv.Controllers
         {
           return (_context.HopDong?.Any(e => e.Mahd == id)).GetValueOrDefault();
         }
+         public IActionResult Download()
+        {
+            var fileName = "YourFileName" + ".xlsx";
+            using (ExcelPackage excelPackage =new ExcelPackage())
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
+                worksheet.Cells["A1"].Value = "Mahd";
+                worksheet.Cells["B1"].Value = "Tenhd";
+                worksheet.Cells["C1"].Value = "NgayBatDau";
+                worksheet.Cells["D1"].Value = "NgayKetThuc";
+                worksheet.Cells["E1"].Value = "ThoiHan";
+                worksheet.Cells["F1"].Value = "Manv";
+
+                var personList = _context.HopDong.ToList();
+                worksheet.Cells["A2"].LoadFromCollection(personList);
+                var stream = new MemoryStream(excelPackage.GetAsByteArray());
+                return File (stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            }
+        }
+
     }
 }

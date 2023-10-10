@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
+using OfficeOpenXml;
 using qlnv.Models;
 using X.PagedList;
 
@@ -187,6 +188,23 @@ namespace qlnv.Controllers
         private bool KhenThuongExists(string id)
         {
           return (_context.KhenThuong?.Any(e => e.MaKT == id)).GetValueOrDefault();
+        }
+
+         public IActionResult Download()
+        {
+            var fileName = "YourFileName" + ".xlsx";
+            using (ExcelPackage excelPackage =new ExcelPackage())
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
+                worksheet.Cells["A1"].Value = "MaKT";
+                worksheet.Cells["B1"].Value = "TenKT";
+                worksheet.Cells["C1"].Value = "Manv";
+
+                var personList = _context.KhenThuong.ToList();
+                worksheet.Cells["A2"].LoadFromCollection(personList);
+                var stream = new MemoryStream(excelPackage.GetAsByteArray());
+                return File (stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            }
         }
     }
 }
