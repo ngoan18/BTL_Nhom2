@@ -17,6 +17,25 @@
                 <span asp-validation-for="Manv" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Matd" class="control-label">Trinh độ</label>
+                <select asp-for="Matd" class ="form-control" asp-items="ViewBag.Matd"></select>
+            </div>
+             <div class="form-group">
+                <label asp-for="Mabp" class="control-label">Bộ phận</label>
+                <select asp-for="Mabp" class ="form-control" asp-items="ViewBag.Mabp"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Macv" class="control-label">Chức vụ</label>
+                <select asp-for="Macv" class ="form-control" asp-items="ViewBag.Macv"></select>
+            </div>
+           
+            <div class="form-group">
+                <label asp-for="Mapc" class="control-label">Phụ cấp</label>
+                <select asp-for="Mapc" class ="form-control" asp-items="ViewBag.Mapc"></select>
+            </div>
+
+
+            <div class="form-group">
                 <label asp-for="Hoten" class="control-label">Họ và tên</label>
                 <input asp-for="Hoten" class="form-control" />
                 <span asp-validation-for="Hoten" class="text-danger"></span>

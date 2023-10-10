@@ -233,9 +233,8 @@ namespace qlnv.Controllers
             using (ExcelPackage excelPackage =new ExcelPackage())
             {
                 ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
-                worksheet.Cells["A1"].Value = "PersomId";
-                worksheet.Cells["B1"].Value = "FullName";
-                worksheet.Cells["C1"].Value = "Address";
+                worksheet.Cells["A1"].Value = "Mabp";
+                worksheet.Cells["B1"].Value = "Tenbp";
 
                 var personList = _context.Bophan.ToList();
                 worksheet.Cells["A2"].LoadFromCollection(personList);

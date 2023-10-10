@@ -11,8 +11,8 @@ using MvcMovie.Data;
 namespace qlnv.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231002160530_Table_KhenThuong")]
-    partial class Table_KhenThuong
+    [Migration("20231010145503__Foreignkey_Nhanvien")]
+    partial class _Foreignkey_Nhanvien
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -39,11 +39,17 @@ namespace qlnv.Migrations
                     b.Property<string>("Macv")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Mapb")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Tencv")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Macv");
+
+                    b.HasIndex("Mapb");
 
                     b.ToTable("Chucvu");
                 });
@@ -51,6 +57,10 @@ namespace qlnv.Migrations
             modelBuilder.Entity("qlnv.Models.HopDong", b =>
                 {
                     b.Property<string>("Mahd")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Manv")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("NgayBatDau")
@@ -71,6 +81,8 @@ namespace qlnv.Migrations
 
                     b.HasKey("Mahd");
 
+                    b.HasIndex("Manv");
+
                     b.ToTable("HopDong");
                 });
 
@@ -79,11 +91,17 @@ namespace qlnv.Migrations
                     b.Property<string>("MaKT")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Manv")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("TenKT")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("MaKT");
+
+                    b.HasIndex("Manv");
 
                     b.ToTable("KhenThuong");
                 });
@@ -107,7 +125,13 @@ namespace qlnv.Migrations
                     b.Property<string>("LuongCB")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Macv")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.HasKey("LuongCB");
+
+                    b.HasIndex("Macv");
 
                     b.ToTable("Luong");
                 });
@@ -137,6 +161,22 @@ namespace qlnv.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Mabp")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Macv")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Mapc")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Matd")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<DateTime>("Ngaysinh")
                         .HasColumnType("TEXT");
 
@@ -145,6 +185,14 @@ namespace qlnv.Migrations
                         .HasColumnType("TEXT");
 
                     b.HasKey("Manv");
+
+                    b.HasIndex("Mabp");
+
+                    b.HasIndex("Macv");
+
+                    b.HasIndex("Mapc");
+
+                    b.HasIndex("Matd");
 
                     b.ToTable("Nhanvien");
                 });
@@ -193,6 +241,85 @@ namespace qlnv.Migrations
                     b.HasKey("Matd");
 
                     b.ToTable("Trinhdo");
+                });
+
+            modelBuilder.Entity("qlnv.Models.Chucvu", b =>
+                {
+                    b.HasOne("qlnv.Models.Phongban", "phongban")
+                        .WithMany()
+                        .HasForeignKey("Mapb")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("phongban");
+                });
+
+            modelBuilder.Entity("qlnv.Models.HopDong", b =>
+                {
+                    b.HasOne("qlnv.Models.Nhanvien", "Nhanvien")
+                        .WithMany()
+                        .HasForeignKey("Manv")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Nhanvien");
+                });
+
+            modelBuilder.Entity("qlnv.Models.KhenThuong", b =>
+                {
+                    b.HasOne("qlnv.Models.Nhanvien", "Nhanvien")
+                        .WithMany()
+                        .HasForeignKey("Manv")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Nhanvien");
+                });
+
+            modelBuilder.Entity("qlnv.Models.Luong", b =>
+                {
+                    b.HasOne("qlnv.Models.Chucvu", "Chucvu")
+                        .WithMany()
+                        .HasForeignKey("Macv")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Chucvu");
+                });
+
+            modelBuilder.Entity("qlnv.Models.Nhanvien", b =>
+                {
+                    b.HasOne("qlnv.Models.Bophan", "bophan")
+                        .WithMany()
+                        .HasForeignKey("Mabp")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.Chucvu", "chucvu")
+                        .WithMany()
+                        .HasForeignKey("Macv")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.PhuCap", "phucap")
+                        .WithMany()
+                        .HasForeignKey("Mapc")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.Trinhdo", "trinhdo")
+                        .WithMany()
+                        .HasForeignKey("Matd")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("bophan");
+
+                    b.Navigation("chucvu");
+
+                    b.Navigation("phucap");
+
+                    b.Navigation("trinhdo");
                 });
 #pragma warning restore 612, 618
         }

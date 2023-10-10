@@ -233,10 +233,8 @@ namespace qlnv.Controllers
             using (ExcelPackage excelPackage =new ExcelPackage())
             {
                 ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
-                worksheet.Cells["A1"].Value = "PersomId";
-                worksheet.Cells["B1"].Value = "FullName";
-                worksheet.Cells["C1"].Value = "Address";
-
+                worksheet.Cells["A1"].Value = "Mapb";
+                worksheet.Cells["B1"].Value = "Tenpb";
                 var personList = _context.Phongban.ToList();
                 worksheet.Cells["A2"].LoadFromCollection(personList);
                 var stream = new MemoryStream(excelPackage.GetAsByteArray());

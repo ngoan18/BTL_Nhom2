@@ -158,6 +158,22 @@ namespace qlnv.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Mabp")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Macv")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Mapc")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Matd")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<DateTime>("Ngaysinh")
                         .HasColumnType("TEXT");
 
@@ -166,6 +182,14 @@ namespace qlnv.Migrations
                         .HasColumnType("TEXT");
 
                     b.HasKey("Manv");
+
+                    b.HasIndex("Mabp");
+
+                    b.HasIndex("Macv");
+
+                    b.HasIndex("Mapc");
+
+                    b.HasIndex("Matd");
 
                     b.ToTable("Nhanvien");
                 });
@@ -258,6 +282,41 @@ namespace qlnv.Migrations
                         .IsRequired();
 
                     b.Navigation("Chucvu");
+                });
+
+            modelBuilder.Entity("qlnv.Models.Nhanvien", b =>
+                {
+                    b.HasOne("qlnv.Models.Bophan", "bophan")
+                        .WithMany()
+                        .HasForeignKey("Mabp")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.Chucvu", "chucvu")
+                        .WithMany()
+                        .HasForeignKey("Macv")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.PhuCap", "phucap")
+                        .WithMany()
+                        .HasForeignKey("Mapc")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("qlnv.Models.Trinhdo", "trinhdo")
+                        .WithMany()
+                        .HasForeignKey("Matd")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("bophan");
+
+                    b.Navigation("chucvu");
+
+                    b.Navigation("phucap");
+
+                    b.Navigation("trinhdo");
                 });
 #pragma warning restore 612, 618
         }

@@ -186,9 +186,9 @@ namespace qlnv.Controllers
             using (ExcelPackage excelPackage =new ExcelPackage())
             {
                 ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
-                worksheet.Cells["A1"].Value = "PersomId";
-                worksheet.Cells["B1"].Value = "FullName";
-                worksheet.Cells["C1"].Value = "Address";
+                worksheet.Cells["A1"].Value = "Macv";
+                worksheet.Cells["B1"].Value = "Tencv";
+                worksheet.Cells["C1"].Value = "Mapb";
 
                 var personList = _context.Chucvu.ToList();
                 worksheet.Cells["A2"].LoadFromCollection(personList);
