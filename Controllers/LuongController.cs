@@ -10,6 +10,7 @@ using OfficeOpenXml;
 using qlnv.Models;
 using X.PagedList;
 
+
 namespace qlnv.Controllers
 {
     public class LuongController : Controller
@@ -20,6 +21,8 @@ namespace qlnv.Controllers
         {
             _context = context;
         }
+
+        
          public async Task<IActionResult> Index( int? page, int? PageSize )
         {
             ViewBag.PageSize = new List<SelectListItem>()
@@ -183,6 +186,9 @@ namespace qlnv.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
+        
+        
 
         private bool LuongExists(string id)
         {

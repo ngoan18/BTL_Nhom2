@@ -12043,19 +12043,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BTL PTPMQL\\BTL_Nhom2\\qlnv.csproj",
+      "projectUniqueName": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
       "projectName": "qlnv",
-      "projectPath": "E:\\BTL PTPMQL\\BTL_Nhom2\\qlnv.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\BTL PTPMQL\\BTL_Nhom2\\obj\\",
+      "projectPath": "D:\\Hoa_BTL\\BTL_Nhom2\\qlnv.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\Hoa_BTL\\BTL_Nhom2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

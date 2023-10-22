@@ -16,6 +16,9 @@
 <table class="table">
     <thead>
         <tr>
+             <th>
+                @Html.DisplayNameFor(model => model.Mapc)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Tenpc)
             </th>
@@ -28,6 +31,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mapc)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Tenpc)
             </td>
